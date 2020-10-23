@@ -1,0 +1,11 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Bosik-R/express-server.git",
+  "author": "Tomasz Rosik <Bosik27@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
